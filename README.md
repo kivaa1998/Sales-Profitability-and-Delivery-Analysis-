@@ -4,10 +4,10 @@ Developed an interactive Tableau dashboard analyzing Superstore Sales data, visu
 
 ## My tasks
 
-- [Overview time series of sales and profits](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/Task1_17525944769450/saleasprofit)  
-- [Profitability research by subcategories and shipping methods](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/Task2_17525945173450/profability)  
-- [Analysis of delivery times](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/AnalysisDelievery/Dashboard2)  
-- [Integration of interactive elements in the "Sales Funnel" scoreboard](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/HW5_17514000764800/Dashboard2)  
+- [Overview time series of sales and profits](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/Overviewtimeseriesofsalesandprofits_17558868853870/saleasprofit)  
+- [Profitability research by subcategories and shipping methods](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/Profitabilityresearchbysubcategoriesandshippingmethods/profability)  
+- [Analysis of delivery times](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/Analysisofdeliverytimes/Dashboard2)  
+- [Integration of interactive elements in the "Sales Funnel" scoreboard](https://public.tableau.com/app/profile/viktoriia.kondratiuk1509/viz/IntegrationofinteractiveelementsintheSalesFunnelscoreboard/Dashboard2)  
 
 ## My results
 
